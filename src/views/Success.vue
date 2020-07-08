@@ -12,9 +12,9 @@
           Silakan tunggu update terbaru dari kami via email yang sudah Anda
           daftarkan sebelumnya.
         </p>
-        <!-- <router-link to="/"> -->
+        <router-link to="/">
           <a class="primary-btn pd-cart mt-3 text-white">Back to Home</a>
-        <!-- </router-link> -->
+        </router-link>
       </div>
     </div>
   </div>
